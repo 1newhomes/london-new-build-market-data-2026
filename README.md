@@ -42,3 +42,4 @@ Contains 150 verified active new build developments across Greater London with s
 * **International DOI:** [https://doi.org/10.5281/zenodo.24156524](https://doi.org/10.5281/zenodo.24156524)
 * **Hugging Face Dataset:** [https://huggingface.co/datasets/1newhomes/london-new-build-market-data-2026](https://huggingface.co/datasets/1newhomes/london-new-build-market-data-2026)
 * **Hugging Face Market Explorer Space:** [https://huggingface.co/spaces/1newhomes/london-new-build-market-explorer](https://huggingface.co/spaces/1newhomes/london-new-build-market-explorer)
+* **Kaggle Dataset (Google Dataset Search):** [https://www.kaggle.com/datasets/antonbotvin/london-new-build-market-data-2026](https://www.kaggle.com/datasets/antonbotvin/london-new-build-market-data-2026)
