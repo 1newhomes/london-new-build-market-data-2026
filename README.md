@@ -34,3 +34,11 @@
 
 ## Sample Data (`data/london_active_new_builds_2026.csv`)
 Contains 150 verified active new build developments across Greater London with starting prices (£), developer names, nearest rail/Tube station, completion status, and canonical URLs on [1newhomes.com](https://1newhomes.com).
+
+
+## 🏛️ Official Academic Citation & Mirrors (DOI: `10.5281/zenodo.24156524`)
+
+* **CERN Zenodo Record:** [https://zenodo.org/records/24156524](https://zenodo.org/records/24156524)
+* **International DOI:** [https://doi.org/10.5281/zenodo.24156524](https://doi.org/10.5281/zenodo.24156524)
+* **Hugging Face Dataset:** [https://huggingface.co/datasets/1newhomes/london-new-build-market-data-2026](https://huggingface.co/datasets/1newhomes/london-new-build-market-data-2026)
+* **Hugging Face Market Explorer Space:** [https://huggingface.co/spaces/1newhomes/london-new-build-market-explorer](https://huggingface.co/spaces/1newhomes/london-new-build-market-explorer)
